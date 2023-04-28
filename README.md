@@ -1,3 +1,3 @@
 # Netmiko
 
-A python code that performs auto-login and status check of your network devices 
+An SNMP Dashboard code designed for network managament and network monitoring 
